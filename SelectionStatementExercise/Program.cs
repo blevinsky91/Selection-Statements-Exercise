@@ -19,6 +19,10 @@
             {
                 Console.WriteLine("too high");
             }
+            else if (favNumber == 9)
+            {
+                Console.WriteLine("You got it!");
+            }
             else
             {
                 Console.WriteLine("Nevermind");

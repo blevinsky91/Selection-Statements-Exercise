@@ -1,0 +1,15 @@
+/Users/brandonlevinsky/Desktop/Repos/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise
+/Users/brandonlevinsky/Desktop/Repos/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.deps.json
+/Users/brandonlevinsky/Desktop/Repos/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.runtimeconfig.json
+/Users/brandonlevinsky/Desktop/Repos/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.dll
+/Users/brandonlevinsky/Desktop/Repos/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.pdb
+/Users/brandonlevinsky/Desktop/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.csproj.AssemblyReference.cache
+/Users/brandonlevinsky/Desktop/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonlevinsky/Desktop/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.AssemblyInfoInputs.cache
+/Users/brandonlevinsky/Desktop/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.AssemblyInfo.cs
+/Users/brandonlevinsky/Desktop/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.csproj.CoreCompileInputs.cache
+/Users/brandonlevinsky/Desktop/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.dll
+/Users/brandonlevinsky/Desktop/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/refint/SelectionStatementExercise.dll
+/Users/brandonlevinsky/Desktop/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.pdb
+/Users/brandonlevinsky/Desktop/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.genruntimeconfig.cache
+/Users/brandonlevinsky/Desktop/Repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/ref/SelectionStatementExercise.dll
